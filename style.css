@@ -1,0 +1,32 @@
+h1 {
+	border: 10px double black;
+	max-width: 350px;
+	padding : 15px ;
+	margin-left: auto;
+	margin-right: auto;
+	color : red;
+}
+
+body {
+color:black;
+background-image:url(art.jpg);
+background-size :150px;
+background-repeat:no-repeat;
+}
+
+h3 {
+	margin-right: 240px;
+	margin-left: 240px; 
+	text-align: justify;
+	padding : 5px;
+}
+
+li:hover {
+	color: #FF00FF;
+}
+
+.question {
+	font-family: arial black;
+}
+
+* { background-color: #ffd699; }
