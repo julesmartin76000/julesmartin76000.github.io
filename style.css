@@ -26,6 +26,7 @@ li:hover {
 }
 
 #important {
+	font-size: 1.1em;
 	}
 
 .question {
@@ -33,3 +34,16 @@ li:hover {
 }
 
 * { background-color: #ffd699; }
+
+@media screen and (max-width: 500px) {
+  img {
+    width: 50%;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size: 0.5em;
+  }
+}
